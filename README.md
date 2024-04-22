@@ -16,8 +16,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Overview
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/UnknownBuilder/FEmentor_recipe-page-main)
+- Live Site URL: [Add live site URL here](https://unknownbuilder.github.io/FEmentor_recipe-page-main/)
 
 ## My process
 
